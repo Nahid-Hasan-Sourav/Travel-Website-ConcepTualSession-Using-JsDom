@@ -1,0 +1,10 @@
+*{
+    /* overflow-x: hidden; */
+}
+header{
+    overflow-x: hidden;
+}
+.card-images{
+    height:80vh;
+    object-fit: cover;
+}
